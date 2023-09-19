@@ -1,0 +1,17 @@
+[
+  {
+    "title": "My first note",
+    "body": "body of my first note",
+    "time_added": "2023-09-19T02:17:48.129Z"
+  },
+  {
+    "title": "My second note",
+    "body": "body of my second note",
+    "time_added": "2023-09-19T02:18:59.666Z"
+  },
+  {
+    "title": "My third note",
+    "body": "This body is updated",
+    "time_added": "2023-09-19T14:39:25.871Z"
+  }
+]
